@@ -1,0 +1,9 @@
+Global docking result analysis
+==============================
+
+25 VINA docking runs of the ligand object 3 to the receptor object 1 yielded the following results,
+sorted by binding energy [more positive energies indicate stronger binding, and negative energies mean no binding]
+
+Run |Bind.energy[kcal/mol]|Dissoc. constant [pM]| Contacting receptor residues
+----+---------------------+---------------------+-----------------------------
+001 |         000007.9340 | 00000001528624.7500 | A HIS 439 A ASP 452 A TYR 455 A TYR 456 A MET 542 A ILE 548 A SER 549 A ALA 550 A LYS 551 A ARG 553 A ALA 554 A ARG 555 A THR 556 A VAL 557 A GLY 616 A TRP 617 A ASP 618 A TYR 619 A LYS 621 A CYS 622 A ASP 623 A ARG 624 A THR 680 A SER 681 A SER 682 A THR 687 A ALA 688 A ASN 691 A SER 759 A ASP 760 A ASP 761 A ALA 762 A VAL 763 A ALA 797 A LYS 798 A TRP 800 A GLU 811 A PHE 812 A CYS 813 A SER 814 A ARG 836 A ALA 840
